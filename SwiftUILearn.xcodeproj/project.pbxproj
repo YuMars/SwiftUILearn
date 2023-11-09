@@ -7,18 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE11F6242AEFD3EA00F13227 /* SystemIconPratice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE11F6232AEFD3EA00F13227 /* SystemIconPratice.swift */; };
+		EE1B58212AFD0AB0002137BA /* ImagePratice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1B58202AFD0AB0002137BA /* ImagePratice.swift */; };
 		EE36DA382AE7B5AD0036D1B8 /* SwiftUILearnApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE36DA372AE7B5AD0036D1B8 /* SwiftUILearnApp.swift */; };
 		EE36DA3A2AE7B5AD0036D1B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE36DA392AE7B5AD0036D1B8 /* ContentView.swift */; };
 		EE36DA3C2AE7B5AE0036D1B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE36DA3B2AE7B5AE0036D1B8 /* Assets.xcassets */; };
 		EE36DA3F2AE7B5AE0036D1B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE36DA3E2AE7B5AE0036D1B8 /* Preview Assets.xcassets */; };
+		EE36DA462AE7E1970036D1B8 /* RadioalAngularGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE36DA452AE7E1970036D1B8 /* RadioalAngularGradient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE11F6232AEFD3EA00F13227 /* SystemIconPratice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIconPratice.swift; sourceTree = "<group>"; };
+		EE1B58202AFD0AB0002137BA /* ImagePratice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePratice.swift; sourceTree = "<group>"; };
 		EE36DA342AE7B5AD0036D1B8 /* SwiftUILearn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUILearn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE36DA372AE7B5AD0036D1B8 /* SwiftUILearnApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILearnApp.swift; sourceTree = "<group>"; };
 		EE36DA392AE7B5AD0036D1B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE36DA3B2AE7B5AE0036D1B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE36DA3E2AE7B5AE0036D1B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EE36DA452AE7E1970036D1B8 /* RadioalAngularGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioalAngularGradient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				EE36DA372AE7B5AD0036D1B8 /* SwiftUILearnApp.swift */,
 				EE36DA392AE7B5AD0036D1B8 /* ContentView.swift */,
+				EE36DA452AE7E1970036D1B8 /* RadioalAngularGradient.swift */,
+				EE11F6232AEFD3EA00F13227 /* SystemIconPratice.swift */,
+				EE1B58202AFD0AB0002137BA /* ImagePratice.swift */,
 				EE36DA3B2AE7B5AE0036D1B8 /* Assets.xcassets */,
 				EE36DA3D2AE7B5AE0036D1B8 /* Preview Content */,
 			);
@@ -137,7 +146,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE11F6242AEFD3EA00F13227 /* SystemIconPratice.swift in Sources */,
 				EE36DA3A2AE7B5AD0036D1B8 /* ContentView.swift in Sources */,
+				EE36DA462AE7E1970036D1B8 /* RadioalAngularGradient.swift in Sources */,
+				EE1B58212AFD0AB0002137BA /* ImagePratice.swift in Sources */,
 				EE36DA382AE7B5AD0036D1B8 /* SwiftUILearnApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
